@@ -1,4 +1,4 @@
-<img src="profile/banner.png" alt="kwi">
+<img src="./banner.png" alt="kwi">
  
 # KWI
  
@@ -9,3 +9,5 @@ KWI (Kreative Works Initiative) builds open, lightweight and friendly software f
 We're starting with audio, and we plan to grow from there.
 
 ---
+
+New here? Read our [Contributing Guide](https://github.com/kreative-works-initiative/.github/blob/main/CONTRIBUTING.md). Each repository states its own license.
